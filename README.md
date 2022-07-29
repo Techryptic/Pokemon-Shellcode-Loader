@@ -5,10 +5,10 @@ Tired of looking at hex all day and popping '\x41's? Rather look at Lugia/Charma
 > Updated Code will be on my GitHub: https://github.com/Techryptic/Pokemon-Shellcode-Loader
 
 > **Note #2**
-> You can also view this via GitBooks: https://techryptic.gitbook.io/pokemon-shellcode
+> GitBooks: https://techryptic.gitbook.io/pokemon-shellcode
 
 > **Note #3**
-> You can also view this via GitPages: https://techryptic.github.io/2022/07/28/Pokemon-Shellcode-Loader
+> GitPages: https://techryptic.github.io/2022/07/28/Pokemon-Shellcode-Loader
 
 # Let's Load Some Instructions
 There are multiple ways to do this:
