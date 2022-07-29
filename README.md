@@ -223,6 +223,8 @@ void printAscii(unsigned char* index_to_hexa_array, int counter_s) {
 ```
 # Conclusion
 
+![](https://680730519-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FhjtCVankMBzHfXUecU9j%2Fuploads%2FY6HSZxk4xB0ubnUFsLUM%2Fimage.png?alt=media&token=63744964-a5f0-480b-9af9-1d2d7f9195cd)
+
 That, that's the conclusion. 
 Same code but using pokemon yields a way better result than I thought it would.
 
